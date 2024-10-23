@@ -1,0 +1,144 @@
+{
+  "project_info": {
+    "project_number": "103965560010",
+    "firebase_url": "https://flutter-app-c3c49-default-rtdb.firebaseio.com",
+    "project_id": "flutter-app-c3c49",
+    "storage_bucket": "flutter-app-c3c49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103965560010:android:38aee5a28580a806fdf833",
+        "android_client_info": {
+          "package_name": "com.example.loginwithotp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPGx4LHW4J1ILye52zeriJIwiXQaYdtOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103965560010:android:3a1952305c75784ffdf833",
+        "android_client_info": {
+          "package_name": "com.example.myauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPGx4LHW4J1ILye52zeriJIwiXQaYdtOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103965560010:android:8fe365a5e3eeeb0afdf833",
+        "android_client_info": {
+          "package_name": "com.example.myloginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPGx4LHW4J1ILye52zeriJIwiXQaYdtOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103965560010:android:4c0b6a8fce01d6d8fdf833",
+        "android_client_info": {
+          "package_name": "com.example.pixsync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPGx4LHW4J1ILye52zeriJIwiXQaYdtOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103965560010:android:966b36490824c968fdf833",
+        "android_client_info": {
+          "package_name": "com.flutterapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPGx4LHW4J1ILye52zeriJIwiXQaYdtOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103965560010:android:5259e8ad7bec3d26fdf833",
+        "android_client_info": {
+          "package_name": "com.myauth.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPGx4LHW4J1ILye52zeriJIwiXQaYdtOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103965560010:android:48c4b2e8f09175dffdf833",
+        "android_client_info": {
+          "package_name": "com.newauthapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPGx4LHW4J1ILye52zeriJIwiXQaYdtOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
